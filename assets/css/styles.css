@@ -133,6 +133,11 @@ ul {
   list-style: none;
 }
 
+p {
+
+  color: blue;
+
+}
 a {
   text-decoration: none;
 }
